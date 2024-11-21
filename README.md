@@ -50,7 +50,7 @@ Work typically operates on two week sprints with a loose mid-point check in. Dis
 Work is available in the Sone Notion, under Tone, in the Development board. While you're always free to make a fix or grab a task from the backlog, be sure to check in first to see if there's any beans that need grinding (work that needs to be done).
 
 ### How do I get something into production?<a id="faq-production"></a>
-As most of our CI/CD is done through Github Actions, so getting things into production is relatively painless. Open up a pull request with your work and tag the code owner. They should reach out/leave comments on the request, and once merged and released, your code should be out into the world.
+As most of our CI/CD is done through Github Actions, getting things into production is relatively painless. Open up a pull request with your work and tag the code owner. They should reach out/leave comments on the request, and once merged and released, your code should be out into the world.
 
 ### How do I work on _____? That seems really interesting to me.<a id="faq-how"></a>
 We want you to work on _____!!! We cannot understate how much we want you to enjoy what you are working on, as it's why we are doing this exact project. We get that everyone has a different cup of tea, and if you have something you want to work on, just reach out in the Discord and throw it out for discussion. It really is that simple.
