@@ -1,10 +1,10 @@
 # Tone
 
 > [!IMPORTANT]
-> Hello! Hi! Sup? While we are **100%** going to launch as an open source platform, we have decided to operate closed source until we get our geese in line (our MVP launched). We have a tiny, dedicated team that is looking to grow. If you're interested in contributing, please introduce yourself by either joining our [Discord community](https://discord.com/invite/dfky8n7kFv) or dropping a line at [dev@sone.works](mailto:dev@sone.works).
+> Hello! Hi! Sup? While we are **100%** going to launch as an open source platform, we have decided to operate closed source until we get our geese in line (our MVP launched). We have a tiny, dedicated team that is looking to grow. If you're interested in contributing, please introduce yourself by either joining our [Discord community](https://discord.com/invite/dfky8n7kFv) or dropping a line at [dev@sone.works](mailto:dev@sone.works)
 
 > [!NOTE]
-> This document is intended for current Tone contributors.
+> This document is intended for current Tone contributors
 
 ## Table of Contents
 - [Leads](#leads)
