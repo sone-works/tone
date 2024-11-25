@@ -75,3 +75,7 @@ A client/server agnostic library to interact with Tone's main APIs.
 ### Tone Frontend Modules<a id="frontend-modules"></a>
 A frontend repository and library containing contexts, hooks, and utilities.
 - **Repo**: https://github.com/sone-works/tone-frontend-modules
+
+### Tone Models
+A Typescript library containing all of Tone's data models
+- **Repo**: https://github.com/sone-works/tone-models
