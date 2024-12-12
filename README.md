@@ -7,7 +7,6 @@
 > This document is intended for current Tone contributors
 
 ## Table of Contents
-- [Leads](#leads)
 - [Onboarding](#onboarding)
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [What access do I need?](#faq-access)
@@ -20,11 +19,7 @@
   - [Tone's Web App](#web-app)
   - [Tone API Modules](#api-modules)
   - [Tone Frontend Modules](#frontend-modules)
-
-## Leads
-We have an open door policy and are friendly folk, please don't be afraid to reach out if you are stuck or have any general questions.
-- **Dev**: Lon Beshiri (@lonbes)
-- **UX**: Matthew Lewicki (@dogwood)
+- [Leads](#leads)
 
 ## Onboarding
 If you haven't already, be sure to follow your platform's **Onboarding** steps.
@@ -79,3 +74,8 @@ A frontend repository and library containing contexts, hooks, and utilities.
 ### Tone Models
 A Typescript library containing all of Tone's data models
 - **Repo**: https://github.com/sone-works/tone-models
+
+## Leads
+We have an open door policy and are friendly folk, please don't be afraid to reach out if you are stuck or have any general questions.
+- **Dev**: Lon Beshiri (@lonbes)
+- **UX**: Matthew Lewicki (@dogwood)
