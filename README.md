@@ -1,7 +1,7 @@
 # Tone
 
 > [!IMPORTANT]
-> Hello! Hi! Sup? While we are **100%** going to launch as an open source platform, we have decided to operate closed source until we get our geese in line (our MVP launched). We have a tiny, dedicated team that is looking to grow. If you're interested in contributing, please introduce yourself by either joining our [Discord community](https://discord.com/invite/dfky8n7kFv) or dropping a line at [dev@sone.works](mailto:dev@sone.works)
+> Hello! While we are **100%** going to launch as an open source platform, we have decided to operate closed source until we get our geese in line (our MVP launched). We have a tiny, dedicated team that is looking to grow. If you're interested in contributing, please introduce yourself by either joining our [Discord community](https://discord.com/invite/dfky8n7kFv) or dropping a line at [dev@sone.works](mailto:dev@sone.works)
 
 > [!NOTE]
 > This document is intended for current Tone contributors
@@ -34,7 +34,7 @@ While we try keep access requests to a minimal, there are a few you will need to
 - Invited to the Tone Github team
 - Invited to the Sone Notion
 
-Please be sure to (nicely) annoy Lon for any unfulfilled access requests.
+Please be sure to (nicely) annoy @lonbes for any unfulfilled access requests.
 
 ### How are we organized?<a id="faq-organized"></a>
 We are currently spread over Discord (communication), Github (code), Notion (work), and Figma (design).
@@ -48,7 +48,7 @@ Work is available in the Sone Notion, under Tone, in the Development board. Whil
 As most of our CI/CD is done through Github Actions, getting things into production is relatively painless. Open up a pull request with your work and tag the code owner. They should reach out/leave comments on the request, and once merged and released, your code should be out into the world.
 
 ### How do I work on _____? That seems really interesting to me.<a id="faq-how"></a>
-We want you to work on _____!!! We cannot understate how much we want you to enjoy what you are working on, as it's why we are doing this exact project. We get that everyone has a different cup of tea, and if you have something you want to work on, just reach out in the Discord and throw it out for discussion. It really is that simple.
+We want you to work on _____! We cannot understate how much we want you to enjoy what you are working on, as it's why we are doing this exact project. We get that everyone has a different cup of tea, and if you have something you want to work on, just reach out in the Discord and throw it out for discussion. It really is that simple.
 
 ## Noteable Resources
 
